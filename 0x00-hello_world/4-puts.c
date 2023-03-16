@@ -1,11 +1,9 @@
 #include <stdio.h>
 
 /**
- * main : Entry point
- *
- * Description: prints exactly a sentance
- *
- * Return: always 0 (success)
+ * main - Entry point
+ * Description: prints
+ * Return: 0
  */
 
 int main(void)
